@@ -42,8 +42,6 @@ npm install
 Run tests
 For tracking linter errors locally you need to follow these steps:
 
-1- For tracking linter errors in HTML files run: npx hint . 2- For tracking linter errors in CSS or SASS files run: npx stylelint "\*/.{css,scss}" 3- For tracking linter errors in JavaScript files run: npx eslint .
-
 ## 🛠 Built With <a id="built-with"></a>
 
 ### Tech Stack <a id="tech-stack"></a>
